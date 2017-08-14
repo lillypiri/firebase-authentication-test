@@ -1,6 +1,6 @@
 # firebase-authentication-test 🔥
 
-Simple React Native app that uses Firebase for authentication. Followed the tutorial below, with some tweaking.
+Simple React Native app that uses Firebase for authentication. Followed [@alaingoldman](https://github.com/alaingoldman)'s tutorial below, with some tweaking.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LaD5_I_HNHA
